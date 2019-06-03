@@ -1,0 +1,73 @@
+#container {
+	width: 1150px;
+	padding: 0;
+	margin: 0 auto;
+}
+
+.linha {
+	width: 100%;
+	clear: both;
+}
+
+.c1  { width: 8.333% }
+.c2  { width: 16.666% }
+.c3  { width: 25% }
+.c4  { width: 33.333% }
+.c5  { width: 41.666% }
+.c6  { width: 50% }
+.c7  { width: 58.333% }
+.c8  { width: 66.666% }
+.c9  { width: 75% }
+.c10 { width: 83.333% }
+.c11 { width: 91.666% }
+.c12 { width: 100%}
+.cx1{position:relative;
+	width:300px;
+	height:200px;
+	background-color:000000;
+}
+.cx2 {width:100%;}
+.cx3{position:absolute;
+	top:400px;
+	left:853px;
+	width:300px;
+	height:426px;
+}
+.cx4{position:relative;
+	top:50px;
+	left:87px;
+	width:300px;
+	height:430px;
+}
+.cx5{width:31%;}
+.cx7{position:absolute;
+	top:870px;
+	left:850px;
+}
+.cx8{position:absolute;
+	top:920px;
+	left:420px;
+}
+.cx9{position:absolute;
+	top:1200px;
+	left:400px;
+}
+.cx10{position:absolute;
+	top:920px;
+	left:590px;
+}
+.tleft {
+	text-align: left;
+}
+
+.tcenter {
+	text-align: center;
+}
+
+.tright {
+	text-align: right;
+}
+
+.tjustify {
+	text-align: justify;
+}
